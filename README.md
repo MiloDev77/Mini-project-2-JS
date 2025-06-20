@@ -1,2 +1,2 @@
 # Mini-project-2-JS
-Simple Program consist:
+Randomizing images at clicking a "Random" button!
